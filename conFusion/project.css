@@ -1,0 +1,30 @@
+.my-nav{
+    background: #2e223c;
+}
+body{
+    margin-top: 80px;
+    background: bisque;
+}
+a{
+    color: bisque !important;
+}
+.my-proj{
+    color: bisque;
+    background: #2e223c;
+    box-shadow: 2px 5px 10px 0 rgba(0, 0, 0, 0.6), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.proj-img{
+    height: 20em;
+    width: 24.5em;
+    /* border:2px solid olive; */
+    padding: 0px;
+    object-fit: fill;
+}
+.my-exp{
+    color: bisque;
+    background: #2e223c;
+    box-shadow: 2px 5px 10px 0 rgba(0, 0, 0, 0.6), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.my-comp{
+    border-right: 5px solid #ff7c2a;
+}

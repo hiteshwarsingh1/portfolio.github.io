@@ -1,0 +1,83 @@
+.test{
+    background-color: blanchedalmond;
+}
+.pages{
+    padding: 15px;
+}
+.img-card{
+    border-radius:50%;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.6), 0 9px 30px 0 rgba(0, 0, 0, 0.19);
+    width: 10em;
+    height:10em;
+    
+  }
+.crd{
+    background-color: #ffffff;
+    box-shadow: 2px 5px 10px 0 rgba(0, 0, 0, 0.6), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bg-bt{
+    background-color: #2e223c;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+.bg-txt{
+    background-color: #2e223c;
+    border: none;
+    padding: 60px 30px;
+}
+.bg-sco{
+    background-color: #392d5a;
+   border: none;
+}
+hr{
+    width: 40%;
+    border: 1px solid white;
+    margin-top: 0px;
+}
+.my-btn{
+    width: max-content;
+    background: #2e223c;   
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    border: none;
+    box-shadow: 2px 5px 10px 0 rgba(0, 0, 0, 0.6), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.my-btn:hover{
+    background-color: rgba(0, 0, 0, 0.211);
+    border: none;
+    box-shadow: 2px 5px 10px 0 rgba(0, 0, 0, 0.6), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.lnk-prof{
+    text-decoration: none;
+    color: white;
+}
+.lnk-prof:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

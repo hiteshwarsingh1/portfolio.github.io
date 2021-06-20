@@ -28,3 +28,7 @@ a{
 .my-comp{
     border-right: 5px solid #ff7c2a;
 }
+.my-btn-c{
+    border: none;
+    background-color: #ff7c2a !important;
+}
